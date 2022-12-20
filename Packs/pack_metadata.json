@@ -1,0 +1,32 @@
+{
+    "name": "Fleet Device Management",
+    "description": "Streamline incident investigation by enriching incidents with additional FleetDM data for hosts",
+    "support": "partner",
+    "currentVersion": "1.0.0",
+    "author": "FleetDM",
+    "url": "https://fleetdm.com/company/contact",
+    "email": "",
+    "categories": [
+        "Data Enrichment & Threat Intelligence"
+    ],
+    "tags": [
+        "Alerts",
+        "Data Source",
+        "Incident Handling",
+        "IT",
+        "Security",
+        "Threat Intelligence"
+    ],
+    "useCases": [],
+    "keywords": [],
+    "marketplaces": [
+        "xsoar",
+        "marketplacev2"
+    ],
+    "devEmail": [
+        "reagan@fleetdm.com"
+    ],
+    "githubUser": [
+        "LonestarATX"
+    ]
+}
